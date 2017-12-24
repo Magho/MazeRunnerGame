@@ -22,7 +22,7 @@
 * You can show the high score from the main menu. 
 
 
- * My role  :
+ ## My role  :
    * made the design of the project.
    * implemented cells.gift & cells.bombs & cells.players & cells.weapons & cells.monsters packages.
    * implemented the command design pattern and buttons logic for controling the player.
