@@ -6,7 +6,8 @@
    * Yousef Ali : https://github.com/youssefAli11997
    * Muhamed Sharaf : https://github.com/muhammadSharaf
    * Mohamed el-Maghraby - Magho- : https://github.com/Magho
- ##User guide :
+ 
+## User guide :
  
 * Run the game from the jar.
 * From settings select : 
