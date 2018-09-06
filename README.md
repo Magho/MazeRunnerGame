@@ -67,4 +67,8 @@
    * Memento design pattern for undo and redo.
    * strategy design pattern for monster - not finished yet -.
 
+### License 
+[![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
+[LICENSE.md](https://github.com/Magho/MazeRunnerGame/blob/master/LICENSE.md)
+
 ## for more detailed explanation see [Report](https://github.com/Magho/MazeRunnerGame/blob/master/Project%20proposal.pdf)
